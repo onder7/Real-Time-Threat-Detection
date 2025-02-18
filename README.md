@@ -121,4 +121,4 @@ Gelecek geliştirmeler için öneriler:
 - Tehdit istihbaratı kaynaklarının çeşitlendirilmesi
 - Web arayüzü eklenmesi
 
-Bu projeyi GitHub'dan indirebilir ve kendi ihtiyaçlarınıza göre özelleştirebilirsiniz.
+Bu projeyi [GitHub'dan indirebilir ve kendi ihtiyaçlarınıza göre özelleştirebilirsiniz.](https://ondernet.net/post/python-ile-gelismis-siber-guvenlik-izleme-sistemi)
