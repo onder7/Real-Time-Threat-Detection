@@ -1,4 +1,4 @@
-# Real-Time-Threat-Detection - Python ile Gelişmiş Siber Güvenlik İzleme Sistemi
+# Real-Time-Threat-Detection - Gelişmiş Siber Güvenlik İzleme Sistemi
 
 Python'un güçlü kütüphanelerini kullanarak gelişmiş bir siber güvenlik izleme sistemi nasıl oluşturulur? Bu makalede, makine öğrenmesi destekli bir güvenlik sisteminin detaylı implementasyonunu inceleyeceğiz.
 
